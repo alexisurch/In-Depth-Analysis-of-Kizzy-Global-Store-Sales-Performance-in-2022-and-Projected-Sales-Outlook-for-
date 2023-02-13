@@ -1,0 +1,2 @@
+# In-Depth-Analysis-of-Kizzy-Global-Store-s-Sales-Performance-in-2022-and-Projected-Sales-Outlook-for-
+This comprehensive Python project aimed at analysing the sales data of Kizzy Global to obtain a clear understanding of the performance of each product category throughout the year. The project also aimed at forecasting the overall sales performance for the year 2023, which would enable stakeholders to make informed decisions and facilitate business
