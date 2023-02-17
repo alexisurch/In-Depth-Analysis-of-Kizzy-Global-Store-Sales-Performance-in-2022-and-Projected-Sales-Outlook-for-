@@ -7,3 +7,5 @@ Conductedg a comprehensive analysis of the sales performance of the Kizzy Global
  (2)Analyze the performance and trends of each category throughout the year.
  (3)Evaluate the overall sales performance of the company.
  (4)What can be projected for the company's sales performance in the coming year.
+ 
+ click on the link to view my final report dashboard on tableau public https://public.tableau.com/app/profile/onyia.alexander
